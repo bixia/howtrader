@@ -1,11 +1,5 @@
 # how trader
-How to be a (quant) trader.  
 如何成为一个量化交易者
-
-the project is forked from VNPY. you can refer to the vnpy project. For
-easy to learn and easy to install the vnpy project. I just simply remove
-the other part not related to cryptocurrency. 
-
 这个项目是fork vnpy的代码。为了方便区分，我把名字改成了howtrader,
 并对其中的部分代码进行了修改，主要为了方便大家学习和使用。vnpy的安装非常复杂，而且容易出错。主要是因为里面依赖的东西过多。
 而且很多部分我们是用不到的。
@@ -27,17 +21,7 @@ you can use pip to install the howtrader.
 
 > python setup.py install 
 
-or you can directly download the source code. then open your termal,
-then script the following command
-
-> pip install -r requirements.txt 
-
-> python setup.py install 
-
 但是我们直接推荐你用pip来安装，这样它能帮你把各种依赖处理好，减少错误的发生。
-
-but we recommend you using the pip to install the howtrader, for you can
-encounter some unexpected errors.
 
 # 更新版本 update
 直接在终端输入: 
@@ -66,8 +50,6 @@ folder by using the multi-threads for speeding.
 
 ## learning materials 学习资料
 
-学习资料请参考网易云课堂[《VNPY数字货币量化交易从零到实盘》](https://study.163.com/course/courseMain.htm?courseId=1210904816)
-你也可以在youtube或者b站找到相应的视频，搜索51bitquant即可找到视频。
 
 ## updates
 
@@ -94,7 +76,5 @@ folder by using the multi-threads for speeding.
 8. V2.1.8 增加现货和合约网格策略 add spot and future grid strategies
 
 
-## 联系方式
-微信: bitquant51
 
 [币安邀请链接](https://www.binancezh.pro/cn/futures/ref/51bitquant)
